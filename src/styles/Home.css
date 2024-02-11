@@ -1,0 +1,14 @@
+.header{
+  color: brown;
+}
+img{
+  /* display: flex; */
+  border-radius: 50%;
+}
+
+
+/* .child_container p{
+    border: 4px solid black;
+    height: 280px;
+    width:684px;  
+  } */
